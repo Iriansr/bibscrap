@@ -1,5 +1,5 @@
 # Bibscrap
-Small script which generates a .txt file suitable for using it as a .bib for LATEX using selenium for scrapping in https://www.doi2bib.org/.
+Small script which generates a .txt (new.txt) file suitable for using it as a .bib for LATEX using selenium for scrapping in https://www.doi2bib.org/.
 
 What do u need?
 * Gecko driver https://github.com/mozilla/geckodriver/releases.
