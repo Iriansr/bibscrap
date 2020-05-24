@@ -18,7 +18,7 @@ for i in range(len(atributos)):
         cotejo.append(atributos[i])
 
 art_dic = {}
-driver = webdriver.Firefox(executable_path=r'/home/irian/Documentos/Bibliografía/geckodriver')
+driver = webdriver.Firefox(executable_path=r'/home/user/path_to_gecko')
 for doi in dois:
     driver.get('https://www.doi2bib.org/')
     formulario = driver.find_element_by_css_selector("input.form-control[value=''][placeholder='Enter a doi, PMCID, or arXiv ID']")
