@@ -1,0 +1,5 @@
+doi, year, month, doi
+- 10.1103/revmodphys.81.109
+- 10.1126/science.1102896
+- 10.1038/nnano.2011.6
+- 10.1103/physrevb.74.195417

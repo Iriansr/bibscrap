@@ -1,0 +1,20 @@
+@article{CastroNeto2009,
+  doi = {10.1103/revmodphys.81.109},
+  year = {2009},
+  month = jan,
+}
+@article{Novoselov2004,
+  doi = {10.1126/science.1102896},
+  year = {2004},
+  month = oct,
+}
+@article{Xia2011,
+  doi = {10.1038/nnano.2011.6},
+  year = {2011},
+  month = feb,
+}
+@article{MuozRojas2006,
+  doi = {10.1103/physrevb.74.195417},
+  year = {2006},
+  month = nov,
+}
