@@ -7,4 +7,4 @@ What do u need?
   - First line with the atributes you wanna add to your LATEX bibliography, separated by commas.
   - Following lines with the DOIs of the bibliography you used.
 
-This script is intended for unix based and firefox systems but it is usable in windows by using a different driver.
+This script is intended for unix based systems w/ firefox but it is portable to windows and other drivers by using a different driver.
